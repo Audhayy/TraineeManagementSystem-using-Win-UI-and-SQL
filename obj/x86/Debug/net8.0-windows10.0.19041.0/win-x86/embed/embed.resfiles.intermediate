@@ -1,0 +1,6 @@
+App.xbf
+MainWindow.xbf
+Pages\AddTraineePage.xbf
+Pages\HomePage.xbf
+Pages\TraineeListPage.xbf
+ViewModels\TraineeViewModel.xbf
